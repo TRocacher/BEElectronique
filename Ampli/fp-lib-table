@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CmpAmpliAudioTR)(type KiCad)(uri D:/Thierry/2019_2020/3IMACS/BEElec/RoutageKicad/MaLib_Ampli/CmpAmpliAudioTR.pretty)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type KiCad)(uri D:/Thierry/2019_2020/3IMACS/BEElec/RoutageKicad/LibAmpli_3imacs/CmpAmpliAudio.pretty)(options "")(descr "")(disabled))
+)

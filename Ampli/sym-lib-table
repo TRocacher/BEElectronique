@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CmpAmpliAudioTR)(type Legacy)(uri D:/Thierry/2019_2020/3IMACS/BEElec/RoutageKicad/MaLib_Ampli/CmpAmpliAudioTR.lib)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type Legacy)(uri D:/Thierry/2019_2020/3IMACS/BEElec/RoutageKicad/LibAmpli_3imacs/CmpAmpliAudio.lib)(options "")(descr "")(disabled))
+)
